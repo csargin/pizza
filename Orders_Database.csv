@@ -1,0 +1,10 @@
+Pizza Size,Pizza Type,Topping,Total,Name,ID,credit card number,credit card password
+
+small,Marinara,[],90,1,1,1,1
+
+small,Marinara,"['GoatCheese', 'Garlic']",120,1,1,1,1
+small,Margherita,"['Tomato', 'GoatCheese', 'Basil']",130,1,1,1,1
+small,TurkPizza,"['Tomato', 'Onions', 'Garlic', 'Meat']",150,2,2,2,2
+large,TurkPizza,"['Olives', 'Muhrooms', 'Basil', 'Olives', 'Muhrooms', 'GoatCheese', 'Meat', 'Onions', 'Corn', 'Garlic', 'Basil', 'Tomato', 'Tomato', 'Onions', 'Garlic', 'Meat']",360,1,1,1,1
+small,PlainPizza,[],90,1,1,1,1
+small,Marinara,"['GoatCheese', 'Garlic']",120,1,1,1,1
