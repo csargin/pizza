@@ -1,10 +1,4 @@
-Pizza Size,Pizza Type,Topping,Total,Name,ID,credit card number,credit card password
+Pizza Size,Pizza Type,Topping,Total,Name,ID,credit card number,credit card password,Order Time
 
-small,Marinara,[],90,1,1,1,1
+small,Marinara,"['Olives', 'GoatCheese', 'Garlic']",130,name1,11111111,123214211121,2321,2023-03-06 09:55:16.028868
 
-small,Marinara,"['GoatCheese', 'Garlic']",120,1,1,1,1
-small,Margherita,"['Tomato', 'GoatCheese', 'Basil']",130,1,1,1,1
-small,TurkPizza,"['Tomato', 'Onions', 'Garlic', 'Meat']",150,2,2,2,2
-large,TurkPizza,"['Olives', 'Muhrooms', 'Basil', 'Olives', 'Muhrooms', 'GoatCheese', 'Meat', 'Onions', 'Corn', 'Garlic', 'Basil', 'Tomato', 'Tomato', 'Onions', 'Garlic', 'Meat']",360,1,1,1,1
-small,PlainPizza,[],90,1,1,1,1
-small,Marinara,"['GoatCheese', 'Garlic']",120,1,1,1,1
